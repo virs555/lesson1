@@ -28,3 +28,4 @@ def discounted(price, discount, max_discounted=50):
 #print(product)
 
 print(discounted(100, 40, max_discounted=94))
+print(discounted(80, 40, max_discounted=94))
